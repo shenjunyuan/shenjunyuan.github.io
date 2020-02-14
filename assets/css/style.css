@@ -1,7 +1,7 @@
 body {
     padding: 20px;
     background-repeat: repeat;
-    background: url("../img/background.jpg") fixed;
+    background-color: blue;
   }
 h1{
 	color: red;
