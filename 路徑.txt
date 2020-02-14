@@ -1,1 +1,1 @@
-<link href="//shenjunyuan.github.io/assets/css/style.css" rel="stylesheet" type="text/css">
+<link href="//shenjunyuan.github.io/assets/css/" rel="stylesheet" type="text/css">

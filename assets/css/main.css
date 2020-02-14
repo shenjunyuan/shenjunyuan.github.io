@@ -7,8 +7,8 @@ html, body {
 
   body {
     padding: 20px;
-    /* background: url("/static/main/img/background.png") fixed; */
-    background-color: #99FFFF;
+    background: url("https://github.com/shenjunyuan/shenjunyuan.github.io/blob/master/assets/img/background.jpg?raw=true") fixed;
+    
     background-repeat: repeat;
   }
 
